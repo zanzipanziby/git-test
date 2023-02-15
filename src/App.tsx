@@ -13,6 +13,9 @@ function App() {
           <p>
               First Commit
           </p>
+          <p>
+              First Commit
+          </p>
       </header>
     </div>
   );
