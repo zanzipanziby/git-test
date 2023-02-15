@@ -5,6 +5,7 @@ const User = () => {
         <div>
             User2
             <span>login</span>
+            <span>login2</span>
         </div>
     );
 };
