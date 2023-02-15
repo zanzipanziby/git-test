@@ -15,7 +15,7 @@ function App() {
               First Commit
           </p>
           <p>
-              First Commit
+              Second commit
           </p>
       </header>
     </div>
