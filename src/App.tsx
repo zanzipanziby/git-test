@@ -20,7 +20,9 @@ function App() {
           <p>
               New Branch
           </p>
-
+          <p>
+              New Branch commit
+          </p>
       </header>
     </div>
   );
