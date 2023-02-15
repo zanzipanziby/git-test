@@ -8,6 +8,7 @@ const User = () => {
             <span>PopUp2</span>
             <span>login</span>
             <span>login2</span>
+            <p>Lorem ipsum.</p>
         </div>
     );
 };
